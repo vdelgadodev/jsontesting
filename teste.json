@@ -1,16 +1,16 @@
-{
-	"home": [
-		{
-			"image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
-			"description": "Aatrox_0 está disponível por 30RP"
-		},
-		{
-			"image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
-			"description": "Caitlyn está disponível por 30RP"
-		}
-		{
-			"image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
-			"description": "Khazika online neste momento"
-		}
-	]
+{  
+   "home":[  
+      {  
+         "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+         "description":"Aatrox_0 está disponível por 30RP"
+      },
+      {  
+         "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+         "description":"Caitlyn está disponível por 30RP"
+      },
+      {  
+         "image":"http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+         "description":"Khazika online neste momento"
+      }
+   ]
 }
